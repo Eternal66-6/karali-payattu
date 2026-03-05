@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Brawl Prototype",
+  "description": "A 2D fighting game prototype featuring physics, combat mechanics, and Gamepad API support.",
+  "requestFramePermissions": []
+}
